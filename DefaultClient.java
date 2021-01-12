@@ -7,5 +7,12 @@ public class DefaultClient extends Client{
 		// TODO Auto-generated method stub
 		return null;
 	}
+	
+	@Override
+	public Response performRequest(String url, String method) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
 
 }
